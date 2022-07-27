@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rDE xmlns="http://ekuatia.set.gov.py/sifen/xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ekuatia.set.gov.py/sifen/xsd siRecepDE_v150.xsd">
+  <dVerFor>150</dVerFor>
+  <DE Id="01039970531001002100700022022063010011111110">
+    <dDVId>0</dDVId>
+    <dFecFirma>2022-07-05T15:40:32</dFecFirma>
+    <dSisFact>1</dSisFact>
+    <gOpeDE>
+      <iTipEmi>1</iTipEmi>
+      <dDesTipEmi>Normal</dDesTipEmi>
+      <dCodSeg>001111111</dCodSeg>
+    </gOpeDE>
+    <gTimb>
+      <iTiDE>1</iTiDE>
+      <dDesTiDE>Factura electrónica</dDesTiDE>
+      <dNumTim>12559590</dNumTim>
+      <dEst>001</dEst>
+      <dPunExp>002</dPunExp>
+      <dNumDoc>1007000</dNumDoc>
+      <dFeIniT>2022-06-21</dFeIniT>
+    </gTimb>
+    <gDatGralOpe>
+      <dFeEmiDE>2022-06-30T10:11:00</dFeEmiDE>
+      <gOpeCom>
+        <iTipTra>1</iTipTra>
+        <dDesTipTra>Venta de mercadería</dDesTipTra>
+        <iTImp>1</iTImp>
+        <dDesTImp>IVA</dDesTImp>
+        <cMoneOpe>USD</cMoneOpe>
+        <dDesMoneOpe>US Dollar</dDesMoneOpe>
+        <dCondTiCam>1</dCondTiCam>
+        <dTiCam>6852.00</dTiCam>
+      </gOpeCom>
+      <gEmis>
+        <dRucEm>3997053</dRucEm>
+        <dDVEmi>1</dDVEmi>
+        <iTipCont>2</iTipCont>
+        <cTipReg>8</cTipReg>
+        <dNomEmi>DE generado en ambiente de prueba - sin valor comercial ni fiscal</dNomEmi>
+        <dNomFanEmi>DIEGO LOPEZ SOLIS</dNomFanEmi>
+        <dDirEmi>Barrio Carolina</dDirEmi>
+        <dNumCas>0</dNumCas>
+        <dCompDir1>Entre calle 2</dCompDir1>
+        <dCompDir2>y Calle 7</dCompDir2>
+        <cDepEmi>11</cDepEmi>
+        <dDesDepEmi>ALTO PARANA</dDesDepEmi>
+        <cDisEmi>145</cDisEmi>
+        <dDesDisEmi>CIUDAD DEL ESTE</dDesDisEmi>
+        <cCiuEmi>3432</cCiuEmi>
+        <dDesCiuEmi>PUERTO PTE.STROESSNER (MUNIC)</dDesCiuEmi>
+        <dTelEmi>0973-527155</dTelEmi>
+        <dEmailE>DIELOSI@GMAIL.COM</dEmailE>
+        <dDenSuc>Sucursal 1</dDenSuc>
+        <gActEco>
+          <cActEco>46410</cActEco>
+          <dDesActEco>COMERCIO AL POR MAYOR DE TEXTILES, PRENDAS DE VESTIR, CALZADO, ARTÍCULOS DE MARROQUINERÍA Y TALABARTERÍA</dDesActEco>
+        </gActEco>
+      </gEmis>
+      <gDatRec>
+        <iNatRec>1</iNatRec>
+        <iTiOpe>1</iTiOpe>
+        <cPaisRec>PRY</cPaisRec>
+        <dDesPaisRe>Paraguay</dDesPaisRe>
+        <iTiContRec>2</iTiContRec>
+        <dRucRec>80007801</dRucRec>
+        <dDVRec>2</dDVRec>
+        <dNomRec>AGRO SILO SANTA CATALINA S.A.</dNomRec>
+        <dDirRec>AGRO SILO SANTA CATALINA S.A.</dDirRec>
+        <dNumCasRec>0</dNumCasRec>
+        <cDepRec>11</cDepRec>
+        <dDesDepRec>ALTO PARANA</dDesDepRec>
+        <cDisRec>211</cDisRec>
+        <dDesDisRec>LOS CEDRALES</dDesDisRec>
+        <cCiuRec>5695</cCiuRec>
+        <dDesCiuRec>LOS CEDRALES</dDesCiuRec>
+        <dTelRec>0633220071</dTelRec>
+        <dCodCliente>712</dCodCliente>
+      </gDatRec>
+    </gDatGralOpe>
+    <gDtipDE>
+      <gCamFE>
+        <iIndPres>1</iIndPres>
+        <dDesIndPres>Operación presencial</dDesIndPres>
+      </gCamFE>
+      <gCamCond>
+        <iCondOpe>2</iCondOpe>
+        <dDCondOpe>Crédito</dDCondOpe>
+        <gPagCred>
+          <iCondCred>2</iCondCred>
+          <dDCondCred>Cuota</dDCondCred>
+          <dCuotas>1</dCuotas>
+          <gCuotas>
+            <cMoneCuo>USD</cMoneCuo>
+            <dDMoneCuo>US Dollar</dDMoneCuo>
+            <dMonCuota>23401.18</dMonCuota>
+            <dVencCuo>2022-06-15</dVencCuo>
+          </gCuotas>
+        </gPagCred>
+      </gCamCond>
+      <gCamItem>
+        <dCodInt>9123</dCodInt>
+        <dDesProSer>SOJA EN GRANOS - TONELADAS</dDesProSer>
+        <cUniMed>99</cUniMed>
+        <dDesUniMed>TN</dDesUniMed>
+        <dCantProSer>37.194</dCantProSer>
+        <gValorItem>
+          <dPUniProSer>629.1654</dPUniProSer>
+          <dTotBruOpeItem>23401.18</dTotBruOpeItem>
+          <gValorRestaItem>
+            <dDescItem>0</dDescItem>
+            <dDescGloItem>0</dDescGloItem>
+            <dAntPreUniIt>0</dAntPreUniIt>
+            <dTotOpeItem>23401.18</dTotOpeItem>
+          </gValorRestaItem>
+        </gValorItem>
+        <gCamIVA>
+          <iAfecIVA>4</iAfecIVA>
+          <dDesAfecIVA>Gravado parcial (Grav- Exento)</dDesAfecIVA>
+          <dPropIVA>50</dPropIVA>
+          <dTasaIVA>5</dTasaIVA>
+          <dBasGravIVA>11143.42</dBasGravIVA>
+          <dLiqIVAItem>557.17</dLiqIVAItem>
+        </gCamIVA>
+      </gCamItem>
+      <gCamEsp/>
+    </gDtipDE>
+    <gTotSub>
+      <dSubExe>0</dSubExe>
+      <dSubExo>0</dSubExo>
+      <dSub5>23401.18</dSub5>
+      <dTotOpe>23401.18</dTotOpe>
+      <dTotDesc>0</dTotDesc>
+      <dTotDescGlotem>0</dTotDescGlotem>
+      <dTotAntItem>0</dTotAntItem>
+      <dTotAnt>0</dTotAnt>
+      <dPorcDescTotal>0</dPorcDescTotal>
+      <dDescTotal>0</dDescTotal>
+      <dAnticipo>0</dAnticipo>
+      <dRedon>0</dRedon>
+      <dTotGralOpe>23401.18</dTotGralOpe>
+      <dIVA5>557.17</dIVA5>
+      <dIVA10>0</dIVA10>
+      <dLiqTotIVA5>0</dLiqTotIVA5>
+      <dLiqTotIVA10>0</dLiqTotIVA10>
+      <dTotIVA>557.17</dTotIVA>
+      <dBaseGrav5>11143.42</dBaseGrav5>
+      <dTBasGraIVA>11143.42</dTBasGraIVA>
+      <dTotalGs>160344885</dTotalGs>
+    </gTotSub>
+  </DE>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+      <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+      <Reference URI="#01039970531001002100700022022063010011111110">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+          <Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+        <DigestValue>iy7MrM30hDPlk5LTBeZaxo9ERcPOSnOOu61qwu7EAs8=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>fRz3UwmWN1brXjQ1kFZGF9TeH1rGl54yLgpgcRj/COqMWadeY2EzJSU3rpj9lavpsdyLcSy5DMa6&#xD;
+HBxHhthpkJj3bG/yjSQh66GZYJ5YDl2pXKSYbfxsISsMBmD5YmrHT6KD1DLpL2q2BNw72r65PYD3&#xD;
+Ic1NOtUcJ7eqf0gHOeaiqSK360grhkg4rpvoeabe96sTzGG4yvfG0oxt3Z8x/j9rO75yXdkyROGD&#xD;
+homycQBEqAwZn1sZi4xZ/reqiaz9/Q7deFyyHa0YInnNVZWT0bqukNNXbGyIN7hmLKT8Te5rmY5B&#xD;
+qgMNdjJivMwxd9foBh017PKPSS4TatmcxnCSxg==</SignatureValue>
+    <KeyInfo>
+      <X509Data>
+        <X509Certificate>MIIIPjCCBiagAwIBAgITXAAAuXguC3+GBCAtIQAAAAC5eDANBgkqhkiG9w0BAQsFADBXMRcwFQYD&#xD;
+VQQFEw5SVUMgODAwODA2MTAtNzEVMBMGA1UEChMMQ09ERTEwMCBTLkEuMQswCQYDVQQGEwJQWTEY&#xD;
+MBYGA1UEAxMPQ0EtQ09ERTEwMCBTLkEuMB4XDTIyMDQyNjEyNTkxMFoXDTIzMDQyNjEyNTkxMFow&#xD;
+gY8xGjAYBgNVBAMTEURJRUdPIExPUEVaIFNPTElTMRcwFQYDVQQKEw5QRVJTT05BIEZJU0lDQTEL&#xD;
+MAkGA1UEBhMCUFkxDjAMBgNVBCoTBURJRUdPMRQwEgYDVQQEEwtMT1BFWiBTT0xJUzESMBAGA1UE&#xD;
+BRMJQ0kzOTk3MDUzMREwDwYDVQQLEwhGSVJNQSBGMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC&#xD;
+AQoCggEBAMUrNRShaRTEIKjHi/bSDyHvg7kx3UflwtYv1HlJ+e505mK/L+OzucW/nkyu1Eaqpngz&#xD;
+j9NgloUqPALX+cU959nClzNu26CdkhZC0uYXSVY+e0ou4/nmrjC/0bL45RVzbuCsfEFboycIFDlM&#xD;
+auC9lYthWbqo43spX3MBzH7lVcbe9+pCQ5Axu+xPSnnnkX1s2us244nrbGzcdP0P5fyTiyjBncha&#xD;
++ul+BOzkFsrt2hjPg0+whzAe17lVxAz6GzLf4bE+VUGudgNjJly3stQTrBcVbjyQitmuRlHtXJ/F&#xD;
+gzDFxjEfWUWjpaVOjRbtqhFYgmc9Vqyl4OtqN6RI+Oh3S+kCAwEAAaOCA8gwggPEMA4GA1UdDwEB&#xD;
+/wQEAwIF4DAMBgNVHRMBAf8EAjAAMCAGA1UdJQEB/wQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDAd&#xD;
+BgNVHQ4EFgQU9i/dLp7oxUa7dfH7SRX85D/b+AMwHwYDVR0jBBgwFoAUJ/baOwt/k/hZEtAVqkLP&#xD;
+spaWPUUwgYgGA1UdHwSBgDB+MHygeqB4hjpodHRwOi8vY2ExLmNvZGUxMDAuY29tLnB5L2Zpcm1h&#xD;
+LWRpZ2l0YWwvY3JsL0NBLUNPREUxMDAuY3JshjpodHRwOi8vY2EyLmNvZGUxMDAuY29tLnB5L2Zp&#xD;
+cm1hLWRpZ2l0YWwvY3JsL0NBLUNPREUxMDAuY3JsMIH4BggrBgEFBQcBAQSB6zCB6DBGBggrBgEF&#xD;
+BQcwAoY6aHR0cDovL2NhMS5jb2RlMTAwLmNvbS5weS9maXJtYS1kaWdpdGFsL2Nlci9DQS1DT0RF&#xD;
+MTAwLmNlcjBGBggrBgEFBQcwAoY6aHR0cDovL2NhMi5jb2RlMTAwLmNvbS5weS9maXJtYS1kaWdp&#xD;
+dGFsL2Nlci9DQS1DT0RFMTAwLmNlcjAqBggrBgEFBQcwAYYeaHR0cDovL2NhMS5jb2RlMTAwLmNv&#xD;
+bS5weS9vY3NwMCoGCCsGAQUFBzABhh5odHRwOi8vY2EyLmNvZGUxMDAuY29tLnB5L29jc3AwggFP&#xD;
+BgNVHSAEggFGMIIBQjCCAT4GDCsGAQQBgtlKAQEBBjCCASwwbAYIKwYBBQUHAgEWYGh0dHA6Ly93&#xD;
+d3cuY29kZTEwMC5jb20ucHkvZmlybWEtZGlnaXRhbC9DT0RFMTAwJTIwUG9saXRpY2ElMjBkZSUy&#xD;
+MENlcnRpZmljYWNpb24lMjBGMSUyMHYxLjAucGRmADBmBggrBgEFBQcCAjBaHlgAUABvAGwAaQB0&#xD;
+AGkAYwBhACAAZABlACAAYwBlAHIAdABpAGYAaQBjAGEAYwBpAG8AbgAgAEYAMQAgAGQAZQAgAEMA&#xD;
+bwBkAGUAMQAwADAAIABTAC4AQQAuMFQGCCsGAQUFBwICMEgeRgBDAG8AZABlACAAMQAwADAAIABT&#xD;
+AC4AQQAuACAAQwBlAHIAdABpAGYAaQBjAGEAdABlACAAUABvAGwAaQBjAHkAIABGADEwaQYDVR0R&#xD;
+BGIwYIERRElFTE9TSUBHTUFJTC5DT02kSzBJMRQwEgYDVQQMEwtQUk9QSUVUQVJJTzEVMBMGA1UE&#xD;
+BRMMUlVDMzk5NzA1My0xMRowGAYDVQQKExFESUVHTyBMT1BFWiBTT0xJUzANBgkqhkiG9w0BAQsF&#xD;
+AAOCAgEAc0aTN1KNj5FPoKc28u+I2cgoNeNcOWJfBQWXLcNmlWOgBTNQScyVUJziQO7zuv2W2jaT&#xD;
+q2EfOKLsPgp9mmXwarUKjVxdDlzH4RJnSY2uYrfaYMPJcyyAIYKkM7Nj9Ux/bj9/AWehYXIAehDR&#xD;
+Q0kzspj74OV6rJwBHz4C33/7sQyd3HIHWecHx3GkydSHm8La+WMtxyiGPiYH+Dc7x8F1daFzdc2S&#xD;
+QjOmcQbG4AmPfS9A8hLnxOoAS/wHgjd2cifxqcGm9rJnavTogN/CH8KchE2X0SqTMLZfIFdeANTq&#xD;
+UF61CU12uhbafo0DQgWglaEh7uUcH4l+GXx9rBYwwzBHRIU+u8ZVMZ6vl/lGU1hrF51Fx9e4gj2X&#xD;
+GhEDlFEIUiWZyksRRtDQl0MOJdpgfln++zRl18XerLRy2OI9iNjRUSXzddey6t52Om4PNRgpLPco&#xD;
+3W7O+JrfATrEL705enQPhMEyTSR9+Okp/0Lz4EF3ZXLz4LaBrolNL1FcX+xiEV1W5PSUPJ72OM5i&#xD;
+4tIt/R8ZxYSyYvQCV3SEbGeu5cok2ZKnbgwqI/8CXuudDb4bHzGZrWl+oezIAW343u8Smm7QcYuy&#xD;
+q1ke2hmflm/WfnuPiqMUdri+FWeBZriaMngbthsGn9/nHxzqM7nuV9oWDXvUEbQbGcrqVm8ewwAm&#xD;
+cND1ULc=</X509Certificate>
+      </X509Data>
+    </KeyInfo>
+  </Signature>
+  <gCamFuFD>
+    <dCarQR>https://ekuatia.set.gov.py/consultas-test/qr?nVersion=150&amp;Id=01039970531001002100700022022063010011111110&amp;dFeEmiDE=323032322d30362d33305431303a31313a3030&amp;dRucRec=80007801&amp;dTotGralOpe=23401.18&amp;dTotIVA=557.17&amp;cItems=1&amp;DigestValue=6979374d724d33306844506c6b354c5442655a61786f39455263504f536e4f4f75363171777537454173383d&amp;IdCSC=1&amp;cHashQR=1df87b2d82f0e9ee6923a4af877313f1cf00adaecea1b2ffd591b71fbcd71c80</dCarQR>
+  </gCamFuFD>
+</rDE>
